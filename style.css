@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+ES+Deco:wght@100..400&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playwrite+ES+Deco:wght@100..400&display=swap');
+
+
+
+body{
+    background-color: lightblue;
+}
+#id-rem{
+    font-size: 2rem;
+}
+#id-px{
+    font-size: 32px;
+}
+#serif{
+    font-family: serif;
+}
+#san-serif{
+    font-family: sans-serif;
+    font-weight: 400;
+}
+#monospace{
+    font-family: monospace;
+}
+#cursive{
+    font-family: cursive;
+}
+#fantasy{
+    font-family: fantasy;
+}
+#internetFont1{
+    font-family: "Playwrite ES Deco", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+#internetFont2{
+    font-family: cursive;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+}
+#internetFont3{
+    font-family: cursive;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+#internetFont4{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+}
+#internetFont5{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: italic;
+}
+#internetFont6{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: bold;
+}
+#internetFont11{
+    font-weight: 100;
+    font-family: 'Courier New', Courier, monospace;
+}
+#internetFont12{
+    font-weight: 200;
+    font-family: 'Courier New', Courier, monospace;
+}
+#internetFont13{
+    font-weight: 300;
+    font-family: 'Courier New', Courier, monospace;
+}
+#internetFont14{
+    font-weight: 400;
+    font-family: 'Courier New', Courier, monospace;
+}
+#internetFont15{
+    font-weight: 500;
+    font-family: 'Courier New', Courier, monospace;
+}
+#internetFont16{
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+}
+#internetFont17{
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+}
+#internetFont18{
+    font-weight: 800;
+    font-family: 'Courier New', Courier, monospace;
+}
+    
+
+#internetFont19{
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+}
